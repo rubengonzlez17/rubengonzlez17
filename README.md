@@ -1,7 +1,7 @@
 ## Rubén González | Backend Developer
 
 
-Hi!   I'm a Backend Developer with a passion for building efficient and scalable data pipelines and APIs. I'm constantly learning and exploring new ways to automate processes and optimize systems (you can contact me at [rgm1723@gmail.com](mailto:rgm1723@gmail.com)).
+Hi!   I'm a Backend Developer passionate about building efficient and scalable data pipelines and APIs. I'm constantly learning and exploring new ways to automate processes and optimize systems (you can contact me at [rgm1723@gmail.com](mailto:rgm1723@gmail.com)).
 
 **Skills:**
 
